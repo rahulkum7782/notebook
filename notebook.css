@@ -1,0 +1,25 @@
+h1{
+    background-color: aqua;
+    color: brown;
+    text-align: center;
+}
+textarea{
+    margin: 1%;
+    height: auto;
+    width:auto;
+    padding: 10px;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+button{
+    background-color: yellowgreen;
+    color: yellow;
+    border-radius: 5px;
+}
+p{
+    text-align: center;
+    color: black;
+    background-color: aqua;
+
+}
